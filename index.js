@@ -37,7 +37,12 @@ Do the following:
    HINT: no function required
 */
 
-
+var canYouVote  = false;
+var votingAge = 10;
+if(votingAge  >= 18){
+ canYouVote =  true
+} 
+console.log(canYouVote)
 
 
 
