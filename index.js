@@ -20,9 +20,9 @@ Do the following:
 
 let votingAge = 20;
 if(votingAge >= 18){
-  console.log(true)
+  console.log(true);
 } else {
-  console.log(false)
+  console.log(false);
 }
 
 
